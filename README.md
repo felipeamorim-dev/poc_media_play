@@ -13,7 +13,7 @@ Aplicação Android para tocar músicas baixadas de repositório a partir do Fir
 
 <br/>
 
-## Técnicas e Tecnologicas Utilizadas
+## :heavy_check_mark: Técnicas e Tecnologicas Utilizadas
 
 <ul>
     <li>Java 8</li>
