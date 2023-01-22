@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607679336469",
+    "project_id": "poc-media-play",
+    "storage_bucket": "poc-media-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607679336469:android:b1cb0f516ea5c9a538fe1c",
+        "android_client_info": {
+          "package_name": "com.example.poc_media_play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607679336469-ongu00iumesgcq6luootli57i5fiaosp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poc_media_play",
+            "certificate_hash": "5d18ab2630f76c5bf12816cd9fc781a1de983c5b"
+          }
+        },
+        {
+          "client_id": "607679336469-fi2risppjcmur00nd300g3ribjec10fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilsWCyhPBuHysFHUGNNVoC_915BNjqPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607679336469-fi2risppjcmur00nd300g3ribjec10fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

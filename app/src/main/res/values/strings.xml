@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">poc-media-play</string>
+    <string name="app_title">Poc Media Play</string>
+    <string name="name">Name</string>
+    <string name="tv_music_title">Título</string>
+    <string name="btnPlay">Button Play and Pause</string>
+    <string name="zero">0</string>
+    <string name="max_time_music">4:30</string>
+    <string name="icon_music_generic">Icone padrao</string>
+</resources>
